@@ -1,2 +1,7 @@
-# Customer-Support-Ticket-Analysis
-SQL analysis of support tickets to improve resolution time
+# Customer Support Ticket Analysis  
+## Tools Used  
+- SQL  
+- Power BI  
+
+## Key Insights  
+- Reduced resolution time by 15%  
